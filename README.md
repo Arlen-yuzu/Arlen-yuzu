@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Yilun Xu (Arlen).
+- 🎓 Zhejiang University, Hangzhou.
+- 🌱 I’m currently interesting in Recommender System, Multimodel learning and Graph Neural Network.
+
+### Dashboard
+
+<!-- ![Arlen-yuzu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlen-yuzu&layout=compact&langs_count=10&count_private=true) -->
+![Arlen-yuzu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arlen-yuzu&langs_count=10&layout=compact&count_private=true&hide=html,css,JavaScript)
+
+<!-- [![Arlen-yuzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arlen-yuzu)](https://github.com/anuraghazra/github-readme-stats) -->
+![Arlen-yuzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arlen-yuzu&hide=issues&show_icons=true)
 
 <!--
 **Arlen-yuzu/Arlen-yuzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
